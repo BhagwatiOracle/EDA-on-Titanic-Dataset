@@ -37,11 +37,11 @@ The dataset includes the following key features:
 
 # 🛠 Steps Performed
 
-1.Data Loading
+1. Data Loading
 
-Loaded the dataset using pandas.
+  Loaded the dataset using pandas.
 
-2.Data Cleaning
+2. Data Cleaning
 
 - Handled missing values (especially in Age, Cabin, and Embarked).
 
@@ -49,13 +49,13 @@ Loaded the dataset using pandas.
 
 - Dropped irrelevant or highly missing columns (e.g., Cabin, depending on the strategy).
 
-3.Univariate Analysis
+3. Univariate Analysis
 
 - Analyzed individual features such as Age, Sex, Pclass, and Fare.
 
 - Plotted histograms, boxplots, and countplots to understand distributions.
 
-3.Bivariate and Multivariate Analysis
+3. Bivariate and Multivariate Analysis
 
 - Studied relationships between features and the target (Survived).
 
@@ -63,11 +63,11 @@ Loaded the dataset using pandas.
 
 - Used heatmaps to visualize correlations.
 
-4.Feature Engineering
+4. Feature Engineering
 
 - Created new features like:
 
- FamilySize = SibSp + Parch 
+   FamilySize = SibSp + Parch 
 
 - One Hot Encoding
 
@@ -102,7 +102,7 @@ Plotted survival rates across different features.
 
 - Seaborn
 
--Jupyter Notebook for interactive analysis
+- Jupyter Notebook for interactive analysis
 
 
 # ✨ Conclusion
