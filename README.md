@@ -67,7 +67,7 @@ Loaded the dataset using pandas.
 
 - Created new features like:
 
-FamilySize = SibSp + Parch 
+ FamilySize = SibSp + Parch 
 
 - One Hot Encoding
 
