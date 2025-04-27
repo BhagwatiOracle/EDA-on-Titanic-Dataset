@@ -1,4 +1,4 @@
-## Titanic Dataset - Exploratory Data Analysis (EDA)
+### Titanic Dataset - Exploratory Data Analysis (EDA)
 
 # 📚 Project Overview
 This project performs an in-depth Exploratory Data Analysis (EDA) on the classic Titanic dataset.
@@ -69,7 +69,9 @@ Loaded the dataset using pandas.
 
 FamilySize = SibSp + Parch 
 
-5.One-Hot Encoding
+- One Hot Encoding
+
+- Outlier Removal
 
 
 # Key Insights
