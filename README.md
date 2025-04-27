@@ -65,7 +65,7 @@ Loaded the dataset using pandas.
 
 4.Feature Engineering
 
--Created new features like:
+- Created new features like:
 
 FamilySize = SibSp + Parch 
 
